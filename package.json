@@ -2,7 +2,7 @@
   "name": "react-mentions",
   "version": "4.5.0",
   "description": "React mentions input",
-  "main": "src/index.js",
+  "main": "dist/react-mentions.cjs.js",
   "module": "dist/react-mentions.esm.js",
   "files": [
     "dist"
